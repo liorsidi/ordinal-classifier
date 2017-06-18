@@ -1,0 +1,16 @@
+,acc_binary,acc_ordinal,dataset,model
+0,0.690789473684,0.782894736842,boston,GradientBoosting
+1,0.447368421053,0.75,boston,RandomForest
+2,0.473684210526,0.730263157895,boston,DecisionTree
+3,0.66,0.666666666667,facebook,GradientBoosting
+4,0.413333333333,0.653333333333,facebook,RandomForest
+5,0.406666666667,0.573333333333,facebook,DecisionTree
+6,0.563636363636,0.918181818182,bike,GradientBoosting
+7,0.55,0.918181818182,bike,RandomForest
+8,0.890909090909,0.918181818182,bike,DecisionTree
+9,0.44,0.406666666667,news,GradientBoosting
+10,0.266666666667,0.34,news,RandomForest
+11,0.293333333333,0.396666666667,news,DecisionTree
+12,0.45641025641,0.569230769231,student,GradientBoosting
+13,0.548717948718,0.564102564103,student,RandomForest
+14,0.297435897436,0.430769230769,student,DecisionTree
